@@ -1,0 +1,17 @@
+
+.f-i{
+    background: linear-gradient(
+        90deg
+        , rgba(2,0,36,0.7917542016806722) 100%, rgba(255,255,255,1) 100%, rgba(255,255,255,1) 10%);
+    height: 40rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
